@@ -1,5 +1,6 @@
 {
   "name": "drum-machine",
+  "homepage": "https://wolfoff718.github.io/drum-machine.official.project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
