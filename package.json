@@ -1,5 +1,6 @@
 {
   "name": "drum-machine",
+  "homepage": "https://wolfoff718.github.io/drum-machine.official.project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,8 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.2.0"
   }
 }
