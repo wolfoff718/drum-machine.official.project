@@ -62,9 +62,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+- El proyecto puede abrirse correctamente a través de la URL: (https://wolfoff718.github.io/drum-machine.official.project);
+
+  ### Project issues
+- Las teclas de la drum-machine no respetan si la maquina esta apagada luego de haberla encendido en primer lugar,por lo que si usted intenta apagar la drum-machine,los tonos seguiran reproduciendose...el interruptor que intente diseñar si esta en color verde,es porque esta encendida la drum-machine,pero si esta en gris significa que la drum-machine esta apagada.
+  
+- las teclas no se respetan entre si,si usted presiona primero la letra "Q" por ejemplo,se reproducirá su tono correspondiente,pero si luego de la letra "Q" usted aprieta la letra "Z",usted podrá observar que el tono de la letra "Z" se reproduce junto al tono que aun sigue reproduciendose de la letra "Q" presionada anteriormente.
+  
+- Los tonos de las letras que se presionen desde un inicio se detendrán al apretar el sector de "Bank1",viendo que debajo de esa opción estará el "Bank 2" , en el cual se almacenan los otros tonos que contienen las letras de la drum-machine,los cuales son diferentes al estilo de sonidos que se reproducen en el "Bank 1".
+
+- El sitio puede tardar en cargar,pero con cargar nuevamente la página deberia funcionar correctamente.
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
+
+### Apologies from the project creator
+- Me disculpo por los errores e incumplimientos de los requisitos que presenta mi proyecto,intente arreglar las fallas del mismo pero al hacerlo perdí todo el diseño que habia logrado obtener en la página y ya no tengo mucho tiempo disponible para poder seguir intentando hacer que este proyecto funcione completamente...no intento excusarme de ninguna manera,pero prefiero entregarles el proyecto con solo 1 requisito de 7 incumplido,que seguir intentando conseguir el resultado que en todos estos dias no pude obtener.
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
