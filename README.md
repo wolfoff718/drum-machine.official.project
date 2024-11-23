@@ -61,9 +61,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-- El proyecto puede abrirse correctamente a través de la URL: (https://wolfoff718.github.io/drum-machine.official.project);
-
   ### Project issues
 - Las teclas de la drum-machine no respetan si la maquina esta apagada luego de haberla encendido en primer lugar,por lo que si usted intenta apagar la drum-machine,los tonos seguiran reproduciendose...el interruptor que intente diseñar si esta en color verde,es porque esta encendida la drum-machine,pero si esta en gris significa que la drum-machine esta apagada.
   
