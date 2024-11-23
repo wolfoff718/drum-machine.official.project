@@ -80,4 +80,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### Apologies from the project creator
 - Me disculpo por los errores e incumplimientos de los requisitos que presenta mi proyecto,intente arreglar las fallas del mismo pero al hacerlo perdí todo el diseño que habia logrado obtener en la página y ya no tengo mucho tiempo disponible para poder seguir intentando hacer que este proyecto funcione completamente...no intento excusarme de ninguna manera,pero prefiero entregarles el proyecto con solo 1 requisito de 7 incumplido,que seguir intentando conseguir el resultado que en todos estos dias no pude obtener.
 
+### Link to the live project:
+You can view the live version of the project here: https://wolfoff718.github.io/drum-machine.official.project
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
